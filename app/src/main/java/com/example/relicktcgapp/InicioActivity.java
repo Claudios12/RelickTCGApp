@@ -25,6 +25,5 @@ public class InicioActivity extends Activity {
                 finish(); // Opcional: cerrar esta pantalla para no volver atrás
             }
         });
-
     }
 }

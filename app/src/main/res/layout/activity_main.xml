@@ -10,7 +10,6 @@
     android:background="@drawable/fondo_blanco">
 
 
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="260dp"

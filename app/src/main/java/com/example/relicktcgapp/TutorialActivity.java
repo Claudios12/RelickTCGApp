@@ -34,7 +34,6 @@ public class TutorialActivity extends AppCompatActivity {
                     finish(); // Opcional: cerrar esta pantalla para no volver atrás
                 }
             });
-
             return insets;
         });
     }

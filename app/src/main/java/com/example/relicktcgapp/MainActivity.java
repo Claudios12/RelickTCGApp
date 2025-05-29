@@ -83,7 +83,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-
     private void animarDaño(TextView textView) {
         textView.animate()
                 .translationX(10f)
